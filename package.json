@@ -1,0 +1,16 @@
+{
+    "name": "generator-hello-world",
+    "version": "0.1.0",
+    "description": "I learned how to make a template with Yeoman, this is my first result.",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "author": "TrueRegin",
+    "private": true,
+    "dependencies": {
+        "yeoman-generator": "^5.2.0"
+    }
+}
